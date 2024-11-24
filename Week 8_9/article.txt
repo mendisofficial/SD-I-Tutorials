@@ -1,0 +1,3 @@
+this is an example article. it contains multiple lines of text.
+    each line may have some unnecessary spaces.
+the purpose is to showcase file manipulation techniques. the transformations should be simple yet effective.
